@@ -1,8 +1,8 @@
 package ctltext
 
 import (
-	".."
-	"../../../element"
+	"github.com/priceboronewport/element"
+	"github.com/priceboronewport/ui"
 )
 
 type CtlText struct {
